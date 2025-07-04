@@ -57,7 +57,7 @@ const HeroSection = () => {
                     <motion.p variants={childVariants} className="my-2 max-w-lg py-6 text-xl loading-relaxed tracking-tighter">{HERO_CONTENT}</motion.p>
                     <motion.a 
                       variants={childVariants} 
-                      href="https://drive.google.com/file/d/1t_EJxYRZ5MkXnEAR2lnOxwglYkCYh0zR/view?usp=drive_link"
+                      href="https://drive.google.com/file/d/1t_EJxYRZ5MkXnEAR2lnOxwglYkCYh0zR/view?usp=sharing"
                       target='_blank'
                       rel='noopener noreferrer'
                       download

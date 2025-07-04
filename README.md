@@ -1,12 +1,55 @@
-# React + Vite
+# Portfolio of Agung Maulana Saputra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the portfolio project of Agung Maulana Saputra, a passionate Full Stack Developer with expertise in modern web technologies.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I am a dedicated and versatile full stack developer with 5 years of professional experience. I specialize in creating efficient and user-friendly web applications using technologies such as React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB.
 
-## Expanding the ESLint configuration
+## Portfolio Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This portfolio showcases my projects, skills, and professional experience. It is built with React and styled using Tailwind CSS, featuring smooth animations powered by Framer Motion.
+
+### Key Sections
+
+- **Navbar**: Navigation with social media links.
+- **Hero Section**: Introduction with profile picture and a brief about me.
+- **Technologies**: Highlights of the main technologies I work with.
+- **Experience**: Professional work experience and roles.
+- **Projects**: A showcase of selected projects with descriptions and technologies used.
+
+## Assets
+
+Profile Picture:
+
+![Profile Picture](src/assets/Profile.webp)
+
+Logo:
+
+![Logo](src/assets/Logo.webp)
+
+Project Images:
+
+- ![Project 1](src/assets/projects/project-1.webp)
+- ![Project 2](src/assets/projects/project-2.webp)
+- ![Project 3](src/assets/projects/project-3.webp)
+- ![Project 4](src/assets/projects/project-4.webp)
+
+## How to Run
+
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Run the development server with `npm run dev`.
+4. Open the app in your browser at `http://localhost:3000`.
+
+## Contact
+
+You can reach me at:
+
+- Email: me@example.com
+- Phone: +12 4555 666 00
+- Address: 767 Fifth Avenue, New York, NY 10153
+
+---
+
+Thank you for visiting my portfolio!

@@ -1,10 +1,10 @@
 # Portfolio of Agung Maulana Saputra
 
-Welcome to the portfolio project of Agung Maulana Saputra, a passionate Full Stack Developer with expertise in modern web technologies.
+Welcome to the my portfolio project, a passionate Full Stack Developer with expertise in modern web technologies.
 
 ## About Me
 
-I am a dedicated and versatile full stack developer with 5 years of professional experience. I specialize in creating efficient and user-friendly web applications using technologies such as React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB.
+You can see it in my portfolio 😉
 
 ## Portfolio Overview
 
@@ -45,9 +45,9 @@ Project Images:
 
 You can reach me at:
 
-- Email: me@example.com
-- Phone: +12 4555 666 00
-- Address: 767 Fifth Avenue, New York, NY 10153
+- Email: agungmaulana7703@gmail.com
+- Phone: +62 857 7200 3192
+- Address: South Jakarta, Jakarta
 
 ---
 

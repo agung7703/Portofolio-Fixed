@@ -63,7 +63,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Jakarta Selatan, DKI Jakarta",
+  address: "South Jakarta, Jakarta",
   phoneNo: "+62 857 7200 3192",
   email: "agungmaulana7703@gmail.com",
 };

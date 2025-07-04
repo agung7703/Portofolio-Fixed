@@ -30,10 +30,9 @@ Logo:
 
 Project Images:
 
-- ![Project 1](src/assets/projects/project-1.webp)
-- ![Project 2](src/assets/projects/project-2.webp)
-- ![Project 3](src/assets/projects/project-3.webp)
-- ![Project 4](src/assets/projects/project-4.webp)
+- ![Project 1](src/assets/projects/adoptWeb.webp)
+- ![Project 2](src/assets/projects/kobaraWeb.webp)
+- ![Project 3](src/assets/projects/adoptMobile.webp)
 
 ## How to Run
 
